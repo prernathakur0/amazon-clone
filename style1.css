@@ -1,0 +1,16 @@
+
+.nav-logo {
+    height:50px;
+    width: 100px;
+}
+
+
+.hero-section1{
+    background-image: url("todaysdeal/to1.jpg");
+    
+    height: 200px;
+    background-size:cover ;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
